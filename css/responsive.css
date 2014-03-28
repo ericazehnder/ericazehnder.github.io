@@ -1,0 +1,32 @@
+@media screen and (min-width: 640px){
+
+  #face{
+    display: inline-block;
+    margin-right: 10%;
+    margin-left: 10%;
+  }
+
+  section{
+    margin-left: 20%;
+  }
+
+  section div{
+    display:inline-block;
+    margin: 0 auto 0 auto;
+    width:200px;
+  }
+
+  section div p{
+    width: 300px;
+  }
+
+
+  footer ol{
+    margin: 40px auto 0 auto;
+  
+  }
+
+
+  
+}
+
