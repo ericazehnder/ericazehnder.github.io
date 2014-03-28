@@ -4,6 +4,7 @@ GENERAL
 
 body {
 font-family: 'Josefin Sans', sans-serif;
+font-size: 1.5em;
 
 }
 
@@ -35,10 +36,10 @@ Body
 ***********************************/
 
 #face{
-  border-radius: 100px;
+  border-radius: 100%;
   display:block;
   margin: 0 auto;
-  width: 20%;
+  width: 25%;
   height: auto;
 }
 
