@@ -1,19 +1,42 @@
 @media only screen and (min-device-width: 700px){
 
-  #face{
+section{
+
+}
+
+#face {
+  display: inline-block;
+  border-radius: 0%;
+  margin-left: 0;
+
+}
+
+section div{
+  margin-right: 0;
+}
+
+section div p{
+  display: inline-block;
+  
+
+
+}
+
+
+}
+
+
+ /* #face{
     display: inline-block;
-    margin-right: 10%;
-    margin-left: 10%;
+  
   }
 
-  section{
-    margin-left: 20%;
+  section{margin: 0 15% 0 15%;
   }
 
   section div{
     display:inline-block;
-    margin: 0 auto 0 auto;
-    width:200px;
+    margin: 0 0 0 15%;
   }
 
   section div p{
@@ -22,8 +45,5 @@
 
 
   footer ol{
-    margin: 40px auto 0 auto;
-  
-  }
-
-}
+    margin: 40px auto 0 auto; 
+*/
