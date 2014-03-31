@@ -1,6 +1,6 @@
 @media only screen and (min-device-width: 700px){
 
-section{
+/*section{
 
 }
 
@@ -17,16 +17,13 @@ section div{
 
 section div p{
   display: inline-block;
-  
 
-
-}
 
 
 }
+*/
 
-
- /* #face{
+  #face{
     display: inline-block;
   
   }
@@ -46,4 +43,4 @@ section div p{
 
   footer ol{
     margin: 40px auto 0 auto; 
-*/
+}
