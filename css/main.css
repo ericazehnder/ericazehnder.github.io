@@ -4,7 +4,7 @@ GENERAL
 
 body {
 font-family: 'Josefin Sans', sans-serif;
-font-size: 1.5em;
+font-size: 1.2em;
 
 }
 
@@ -39,6 +39,8 @@ Body
   border-radius: 100%;
   display:block;
   margin: 0 auto;
+  padding-top: 45px;
+  padding-bottom: 45px;
   width: 200px;
   height: 200px;
 }
